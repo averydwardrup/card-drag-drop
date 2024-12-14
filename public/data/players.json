@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Tom Brady",
+    "position": "QB",
+    "team": "New England Patriots",
+    "jerseyNumber": 12,
+    "picture": "https://static.nfl.com/static/content/public/static/img/fantasy/players/120x120/2518131.png"
+  },
+  {
+    "id": 2,
+    "name": "Drew Brees",
+    "position": "QB",
+    "team": "New Orleans Saints",
+    "jerseyNumber": 9,
+    "picture": "https://static.nfl.com/static/content/public/static/img/fantasy/players/120x120/2506101.png"
+  },
+  {
+    "id": 3,
+    "name": "Aaron Rodgers",
+    "position": "QB",
+    "team": "Green Bay Packers",
+    "jerseyNumber": 12,
+    "picture": "https://static.nfl.com/static/content/public/static/img/fantasy/players/120x120/2506093.png"
+  },
+  {
+    "id": 4,
+    "name": "Patrick Mahomes",
+    "position": "QB",
+    "team": "Kansas City Chiefs",
+    "jerseyNumber": 15,
+    "picture": "https://static.nfl.com/static/content/public/static/img/fantasy/players/120x120/2565171.png"
+  }
+]
