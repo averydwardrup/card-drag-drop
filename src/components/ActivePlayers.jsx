@@ -11,7 +11,7 @@ function PlayerList() {
 
   return (
     <div>
-      <h2>Active Player List</h2>
+      <h2 className="is-size-2">Active Player List</h2>
       <ul className="player-grid">
         {players.map((player) => (
           <li id={player.id} key={player.id}>
